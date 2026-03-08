@@ -56,15 +56,15 @@ export default function LandingPage() {
             {
               id: "1",              imageSrc: "http://img.b2bpic.net/free-photo/diligent-cobbler-glasses-is-working-with-pair-leather-shoes-his-workplace_613910-12914.jpg",              imageAlt: "Reparación profesional de televisor LG"},
             {
-              id: "2",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-holding-digital-tablet_107420-95942.jpg",              imageAlt: "Técnico reparando pantalla LG"},
+              id: "2",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-holding-digital-tablet_107420-95942.jpg?_wi=1",              imageAlt: "Técnico reparando pantalla LG"},
             {
-              id: "3",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-getting-rid-hvac-system-dirt_482257-91994.jpg",              imageAlt: "Reemplazo de pantalla profesional"},
+              id: "3",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-getting-rid-hvac-system-dirt_482257-91994.jpg?_wi=1",              imageAlt: "Reemplazo de pantalla profesional"},
             {
-              id: "4",              imageSrc: "http://img.b2bpic.net/free-photo/male-technician-hand-wearing-gloves-holding-computer-parts_23-2147922310.jpg",              imageAlt: "Reparación de placa base electrónica"},
+              id: "4",              imageSrc: "http://img.b2bpic.net/free-photo/male-technician-hand-wearing-gloves-holding-computer-parts_23-2147922310.jpg?_wi=1",              imageAlt: "Reparación de placa base electrónica"},
             {
-              id: "5",              imageSrc: "http://img.b2bpic.net/free-photo/couple-with-tablet-sofa_23-2147744826.jpg",              imageAlt: "Configuración Smart TV"},
+              id: "5",              imageSrc: "http://img.b2bpic.net/free-photo/couple-with-tablet-sofa_23-2147744826.jpg?_wi=1",              imageAlt: "Configuración Smart TV"},
             {
-              id: "6",              imageSrc: "http://img.b2bpic.net/free-photo/young-female-inventor-creating-her-workshop_23-2149067227.jpg",              imageAlt: "Diagnóstico técnico profesional"},
+              id: "6",              imageSrc: "http://img.b2bpic.net/free-photo/young-female-inventor-creating-her-workshop_23-2149067227.jpg?_wi=1",              imageAlt: "Diagnóstico técnico profesional"},
           ]}
           autoPlay={true}
           autoPlayInterval={4000}
@@ -77,22 +77,22 @@ export default function LandingPage() {
           description="Contamos con experiencia en reparación integral de televisores LG, con diagnóstico rápido y soluciones profesionales."
           features={[
             {
-              title: "Reparación de Televisores LG",              description: "Especialistas en televisores LED, OLED y Smart TV con técnicos certificados",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-holding-digital-tablet_107420-95942.jpg",              imageAlt: "Reparación LG TV",              buttonIcon: Wrench,
+              title: "Reparación de Televisores LG",              description: "Especialistas en televisores LED, OLED y Smart TV con técnicos certificados",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-holding-digital-tablet_107420-95942.jpg?_wi=2",              imageAlt: "Reparación LG TV",              buttonIcon: Wrench,
               buttonHref: "tel:+34615652022"},
             {
-              title: "Reparación de Pantallas",              description: "Reemplazo de pantallas dañadas con piezas originales y garantía",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-getting-rid-hvac-system-dirt_482257-91994.jpg",              imageAlt: "Reparación pantalla",              buttonIcon: Monitor,
+              title: "Reparación de Pantallas",              description: "Reemplazo de pantallas dañadas con piezas originales y garantía",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-getting-rid-hvac-system-dirt_482257-91994.jpg?_wi=2",              imageAlt: "Reparación pantalla",              buttonIcon: Monitor,
               buttonHref: "tel:+34615652022"},
             {
               title: "Problemas de Sonido",              description: "Diagnóstico y reparación de sistemas de audio y altavoces",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-artist-making-music_23-2149199987.jpg",              imageAlt: "Reparación audio",              buttonIcon: Volume2,
               buttonHref: "tel:+34615652022"},
             {
-              title: "Fallos de Encendido",              description: "Reparación de problemas de alimentación y placas base",              imageSrc: "http://img.b2bpic.net/free-photo/male-technician-hand-wearing-gloves-holding-computer-parts_23-2147922310.jpg",              imageAlt: "Reparación encendido",              buttonIcon: Power,
+              title: "Fallos de Encendido",              description: "Reparación de problemas de alimentación y placas base",              imageSrc: "http://img.b2bpic.net/free-photo/male-technician-hand-wearing-gloves-holding-computer-parts_23-2147922310.jpg?_wi=2",              imageAlt: "Reparación encendido",              buttonIcon: Power,
               buttonHref: "tel:+34615652022"},
             {
-              title: "Conectividad Smart TV",              description: "Resolución de problemas de Wi-Fi y conectividad en Smart TV",              imageSrc: "http://img.b2bpic.net/free-photo/couple-with-tablet-sofa_23-2147744826.jpg",              imageAlt: "Smart TV conectividad",              buttonIcon: Wifi,
+              title: "Conectividad Smart TV",              description: "Resolución de problemas de Wi-Fi y conectividad en Smart TV",              imageSrc: "http://img.b2bpic.net/free-photo/couple-with-tablet-sofa_23-2147744826.jpg?_wi=2",              imageAlt: "Smart TV conectividad",              buttonIcon: Wifi,
               buttonHref: "tel:+34615652022"},
             {
-              title: "Diagnóstico Técnico",              description: "Diagnóstico profesional sin costo para evaluar el problema",              imageSrc: "http://img.b2bpic.net/free-photo/young-female-inventor-creating-her-workshop_23-2149067227.jpg",              imageAlt: "Diagnóstico técnico",              buttonIcon: CheckCircle,
+              title: "Diagnóstico Técnico",              description: "Diagnóstico profesional sin costo para evaluar el problema",              imageSrc: "http://img.b2bpic.net/free-photo/young-female-inventor-creating-her-workshop_23-2149067227.jpg?_wi=2",              imageAlt: "Diagnóstico técnico",              buttonIcon: CheckCircle,
               buttonHref: "tel:+34615652022"},
           ]}
           textboxLayout="default"
